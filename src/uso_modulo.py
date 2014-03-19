@@ -15,4 +15,5 @@ print l
 
 
 # La t_upla tiene seis elementos.
+# Los elementos si se pueden expresar en notacion cientifica.
 # La extension .pyc es la version compilada de un modulo ya interpretado.
